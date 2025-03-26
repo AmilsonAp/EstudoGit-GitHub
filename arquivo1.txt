@@ -1,0 +1,18 @@
+Este arquivo tem como finalidade, realizar a transferência do mesmo, do repositório local para o remoto.
+
+Pré requisitos.
+- Ter usuário criado no GitHub
+- Possuir um repositório criado no GitHub
+- Ter o Git instalado na máquina
+
+Passos:
+1 - Crie uma pasta em algum lugar da máquina ( Esse será seu repositório local )
+	*Criei um arquivo de texto no formato txt dentro desta pasta.
+2 - Abra o prompt de comando ou ferramenta similar ( powershell por exemplo ) dentro desta pasta.
+	*Neste caso cliquei com o botáo direito do mause e selecionei a opção "Abrir terminal".
+3 - Digitar o comando "git init" no prompt
+4 - configurar usuário e email
+	*comandos utilizados no prompt
+		* git config --global user.email "amilson.moreira@gmail.com"
+		* git config --global user.name "Amilson Ap."
+5 - Salvar e fechar este arquivo para realizar o camando "git add nome-do-arquivo.txt".

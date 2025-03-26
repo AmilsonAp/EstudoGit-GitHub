@@ -16,3 +16,8 @@ Passos:
 		* git config --global user.email "amilson.moreira@gmail.com"
 		* git config --global user.name "Amilson Ap."
 5 - Salvar e fechar este arquivo para realizar o camando "git add nome-do-arquivo.txt".
+6 - Executar o comando "git commit -m `mensagem de descrição qualquer`".
+7 - Executar o comando "git push -u origin master".
+	*Se atentar a palavra "master", ela pode ser descrita como "main".
+	*Com o comando "git branch é possível verificar".
+

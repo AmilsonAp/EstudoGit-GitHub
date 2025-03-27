@@ -1,23 +1,8 @@
-Este arquivo tem como finalidade, realizar a transferência do mesmo, do repositório local para o remoto.
+26/03/2025 
+- primeiro commit deste arquivo1.txt
+- primeira edição do arquivo1.txt
 
-Pré requisitos.
-- Ter usuário criado no GitHub
-- Possuir um repositório criado no GitHub
-- Ter o Git instalado na máquina
+27/04/2025
+- segunda edição d arquivo1.txt
 
-Passos:
-1 - Crie uma pasta em algum lugar da máquina ( Esse será seu repositório local )
-	*Criei um arquivo de texto no formato txt dentro desta pasta.
-2 - Abra o prompt de comando ou ferramenta similar ( powershell por exemplo ) dentro desta pasta.
-	*Neste caso cliquei com o botáo direito do mause e selecionei a opção "Abrir terminal".
-3 - Digitar o comando "git init" no prompt
-4 - configurar usuário e email
-	*comandos utilizados no prompt
-		* git config --global user.email "amilson.moreira@gmail.com"
-		* git config --global user.name "Amilson Ap."
-5 - Salvar e fechar este arquivo para realizar o camando "git add nome-do-arquivo.txt".
-6 - Executar o comando "git commit -m `mensagem de descrição qualquer`".
-7 - Executar o comando "git push -u origin master".
-	*Se atentar a palavra "master", ela pode ser descrita como "main".
-	*Com o comando "git branch é possível verificar".
 
